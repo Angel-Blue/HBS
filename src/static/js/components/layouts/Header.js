@@ -16,7 +16,7 @@ class Header extends HeaderComponent {
 								<div className="logo">
 									<Link to="/">
 										<img
-											src={process.env.PUBLIC_URL + "/logo.png"}
+											src={process.env.PUBLIC_URL + "images/logo.png"}
 											className="image-fit"
 											alt="logo"
 										/>
