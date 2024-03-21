@@ -1,15 +1,16 @@
 [
 	{
 		"id": 1,
-		"title": "Product 1",
+		"title": "Jellied Eels",
 		"price": 20,
-		"discount": 5,
+		"discount": 10,
 		"stock": true,
 		"category": [1, 2],
 		"tags": [1, 2],
-		"image": ["product1.jpg"],
+		"image": ["images/shop/product1.jpg"],
 		"sold": 100,
-		"goal": 200
+		"goal": 200,
+		"sale": true
 	},
 	{
 		"id": 2,

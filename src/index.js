@@ -16,7 +16,7 @@ import "./assets/css/flaticon.css";
 import "./assets/css/pe-icon-7-stroke.css";
 import "./assets/css/style.css";
 import "./assets/css/responsive.css";
-import "./index.css";
+// import "./index.css";
 
 ReactDOM.render(
 	<BrowserRouter basename={"/templatemonster/react/nina/"}>
