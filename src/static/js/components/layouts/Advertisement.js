@@ -50,7 +50,7 @@ class Advertisement extends Component {
 				className="section-padding advertisement-banner-1 cause-bg center-bg-effect bg-cover"
 				style={{
 					backgroundImage:
-						"url(" + process.env.PUBLIC_URL + "/assets/img/banner/banner5.jpg)",
+						"url(" + process.env.PUBLIC_URL + "images/banner/banner5.jpg)",
 				}}>
 				<div className="container-fluid custom-container">
 					<div className="row">

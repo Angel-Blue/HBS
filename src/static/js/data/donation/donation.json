@@ -2,8 +2,8 @@
 	{
 		"id": 1,
 		"title": "Donate for Education",
-		"image": "images/donation/education.jpg",
-		"category": [1, 3],
+		"image": "images/donation/article9.jpg",
+		"category": [1],
 		"shortdesc": "Help us provide quality education to underprivileged children.",
 		"raised": 15000,
 		"goal": 30000
@@ -11,17 +11,53 @@
 	{
 		"id": 2,
 		"title": "Support Health Initiatives",
-		"image": "images/donation/health.jpg",
-		"category": [2, 3],
+		"image": "images/donation/article8.jpg",
+		"category": [2],
 		"shortdesc": "Contribute to healthcare programs for vulnerable communities.",
 		"raised": 25000,
 		"goal": 50000
 	},
 	{
 		"id": 3,
-		"title": "Preserve Wildlife",
-		"image": "images/donation/wildlife.jpg",
+		"title": "Give food & clothing for the homeless",
+		"image": "images/donation/article7.jpg",
+		"category": [3],
+		"shortdesc": "Protect endangered species and their habitats.",
+		"raised": 10000,
+		"goal": 20000
+	},
+	{
+		"id": 3,
+		"title": "Give food & clothing for the homeless1",
+		"image": "images/donation/article7.jpg",
+		"category": [3],
+		"shortdesc": "Protect endangered species and their habitats.",
+		"raised": 10000,
+		"goal": 20000
+	},
+	{
+		"id": 3,
+		"title": "Give food & clothing for the homeless2",
+		"image": "images/donation/article7.jpg",
+		"category": [3],
+		"shortdesc": "Protect endangered species and their habitats.",
+		"raised": 10000,
+		"goal": 20000
+	},
+	{
+		"id": 3,
+		"title": "Support children & help the world",
+		"image": "images/donation/article4.jpg",
 		"category": [4],
+		"shortdesc": "Protect endangered species and their habitats.",
+		"raised": 10000,
+		"goal": 20000
+	},
+	{
+		"id": 3,
+		"title": "National Convention",
+		"image": "images/donation/article3.jpg",
+		"category": [5],
 		"shortdesc": "Protect endangered species and their habitats.",
 		"raised": 10000,
 		"goal": 20000

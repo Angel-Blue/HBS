@@ -1,22 +1,27 @@
 [
 	{
 		"id": 1,
-		"title": "Education",
+		"title": "Children",
 		"count": 10
 	},
 	{
 		"id": 2,
-		"title": "Health",
+		"title": "Museum",
 		"count": 8
 	},
 	{
 		"id": 3,
-		"title": "Environment",
+		"title": "Donation",
 		"count": 12
 	},
 	{
 		"id": 4,
-		"title": "Animals",
+		"title": "Handicraft",
+		"count": 6
+	},
+	{
+		"id": 5,
+		"title": "Ceramicraft",
 		"count": 6
 	}
 ]

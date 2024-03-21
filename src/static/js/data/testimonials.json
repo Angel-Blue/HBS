@@ -1,38 +1,22 @@
 [
 	{
 		"id": 1,
-		"comment": "This is a fantastic product!",
-		"author": [
-			{
-				"id": 1,
-				"name": "John Doe",
-				"image": "john-doe.jpg",
-				"address": "New York, USA"
-			}
-		]
+		"comment": "I like Museum and as compared to other company it's polices and customers support is very good easy to reach., also many time they unable to delivered. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisist amet, sed do eiusm.",
+		"author": [1]
 	},
 	{
 		"id": 2,
-		"comment": "Great service and excellent support!",
-		"author": [
-			{
-				"id": 2,
-				"name": "Jane Smith",
-				"image": "jane-smith.jpg",
-				"address": "Los Angeles, USA"
-			}
-		]
+		"comment": "I like Museum and as compared to other company it's polices and customers support is very good easy to reach., also many time they unable to delivered. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisist amet, sed do eiusm",
+		"author": [2]
 	},
 	{
 		"id": 3,
-		"comment": "Highly recommended!",
-		"author": [
-			{
-				"id": 3,
-				"name": "David Johnson",
-				"image": "david-johnson.jpg",
-				"address": "Chicago, USA"
-			}
-		]
+		"comment": "I like Museum and as compared to other company it's polices and customers support is very good easy to reach., also many time they unable to delivered. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisist amet, sed do eiusm",
+		"author": [3]
+	},
+	{
+		"id": 4,
+		"comment": "I like Museum and as compared to other company it's polices and customers support is very good easy to reach., also many time they unable to delivered. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisist amet, sed do eiusm",
+		"author": [4]
 	}
 ]

@@ -61,7 +61,7 @@ class Footer extends Component {
 									<div className="logo mb-xl-20">
 										<Link to="#">
 											<img
-												src={process.env.PUBLIC_URL + "/assets/img/logo.png"}
+												src={process.env.PUBLIC_URL + "images/logo.png"}
 												className="img-fluid"
 												alt="img"
 											/>
@@ -223,8 +223,7 @@ class Footer extends Component {
 									<div className="payemt-icon">
 										<img
 											src={
-												process.env.PUBLIC_URL +
-												"/assets/img/footer-bottom-img.png"
+												process.env.PUBLIC_URL + "images/footer-bottom-img.png"
 											}
 											alt="img"
 										/>

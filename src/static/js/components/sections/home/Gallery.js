@@ -16,7 +16,7 @@ class Gallery extends Popuphelper {
 											<img
 												src={
 													process.env.PUBLIC_URL +
-													"/assets/img/gallery/thisisimage6.jpg"
+													"images/gallery/thisisimage6.jpg"
 												}
 												className="image-fit"
 												alt="img"
@@ -42,7 +42,7 @@ class Gallery extends Popuphelper {
 										<img
 											src={
 												process.env.PUBLIC_URL +
-												"/assets/img/gallery/thisisimage1.jpg"
+												"images/gallery/thisisimage1.jpg"
 											}
 											className="image-fit"
 											alt="#"
@@ -66,14 +66,13 @@ class Gallery extends Popuphelper {
 									<a
 										rel={"external"}
 										href={
-											process.env.PUBLIC_URL +
-											"/assets/img/gallery/thisisimage2.jpg"
+											process.env.PUBLIC_URL + "images/gallery/thisisimage2.jpg"
 										}
 										className="popup popup-image">
 										<img
 											src={
 												process.env.PUBLIC_URL +
-												"/assets/img/gallery/thisisimage2.jpg"
+												"images/gallery/thisisimage2.jpg"
 											}
 											className="image-fit"
 											alt="img"
@@ -86,14 +85,13 @@ class Gallery extends Popuphelper {
 									<a
 										rel={"external"}
 										href={
-											process.env.PUBLIC_URL +
-											"/assets/img/gallery/thisisimage4.jpg"
+											process.env.PUBLIC_URL + "images/gallery/thisisimage4.jpg"
 										}
 										className="popup popup-image">
 										<img
 											src={
 												process.env.PUBLIC_URL +
-												"/assets/img/gallery/thisisimage4.jpg"
+												"images/gallery/thisisimage4.jpg"
 											}
 											className="image-fit"
 											alt="img"
@@ -106,14 +104,13 @@ class Gallery extends Popuphelper {
 									<a
 										rel={"external"}
 										href={
-											process.env.PUBLIC_URL +
-											"/assets/img/gallery/thisisimage3.jpg"
+											process.env.PUBLIC_URL + "images/gallery/thisisimage3.jpg"
 										}
 										className="popup popup-image">
 										<img
 											src={
 												process.env.PUBLIC_URL +
-												"/assets/img/gallery/thisisimage3.jpg"
+												"images/gallery/thisisimage3.jpg"
 											}
 											className="image-fit"
 											alt="img"
@@ -126,14 +123,13 @@ class Gallery extends Popuphelper {
 									<a
 										rel={"external"}
 										href={
-											process.env.PUBLIC_URL +
-											"/assets/img/gallery/thisisimage5.jpg"
+											process.env.PUBLIC_URL + "images/gallery/thisisimage5.jpg"
 										}
 										className="popup popup-image">
 										<img
 											src={
 												process.env.PUBLIC_URL +
-												"/assets/img/gallery/thisisimage5.jpg"
+												"images/gallery/thisisimage5.jpg"
 											}
 											className="image-fit"
 											alt="img"

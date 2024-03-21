@@ -27,7 +27,7 @@ class Testimonials extends Component {
 				className="feedback-area-two section-padding bg-custom-primary"
 				style={{
 					backgroundImage:
-						"url(" + process.env.PUBLIC_URL + "/assets/img/footer-bg.png)",
+						"url(" + process.env.PUBLIC_URL + "images/footer-bg.png)",
 				}}>
 				<div className="container-fluid custom-container">
 					<div className="row">
