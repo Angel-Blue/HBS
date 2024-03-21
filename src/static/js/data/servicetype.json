@@ -2,25 +2,25 @@
 	{
 		"title": "Explore",
 		"text": "As a Visitor",
-		"icon": "help.svg",
+		"icon": "images/help.svg",
 		"extclass": "border-custom-right border-sm-bottom"
 	},
 	{
 		"title": "Be a Hand",
 		"text": "As a Donor",
-		"icon": "money.svg",
+		"icon": "images/money.svg",
 		"extclass": "border-custom-right border-sm-bottom"
 	},
 	{
 		"title": "Explore",
 		"text": "As a Scientist",
-		"icon": "investor.svg",
+		"icon": "images/investor.svg",
 		"extclass": "border-custom-right border-sm-bottom"
 	},
 	{
 		"title": "Be a Part",
 		"text": "In our Fundraiser",
-		"icon": "cash.svg",
+		"icon": "images/cash.svg",
 		"extclass": "border-custom-right border-sm-bottom"
 	}
 ]

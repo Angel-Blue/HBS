@@ -1,6 +1,6 @@
 [
 	{
-		"image": "banner1.jpg",
+		"image": "images/banner/banner1.jpg",
 		"position": "col-lg-12",
 		"extraclass": "right-side-content far-right",
 		"subtitle": "Around the world.",
@@ -8,7 +8,7 @@
 		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 	},
 	{
-		"image": "banner2.jpg",
+		"image": "images/banner/banner2.jpg",
 		"position": "col-lg-12",
 		"extraclass": "right-side-content text-center",
 		"subtitle": "Around the world.",
@@ -16,7 +16,7 @@
 		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 	},
 	{
-		"image": "banner3.jpg",
+		"image": "images/banner/banner3.jpg",
 		"position": "col-lg-12",
 		"extraclass": "left-side-content text-right",
 		"subtitle": "Around the world.",
