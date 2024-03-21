@@ -36,7 +36,7 @@ class Bestsellers extends Component {
 									NINA Museum Design Store
 								</h3>
 								<span className="fs-16">
-									<Link to="/shop-left">See All Bestseller</Link>
+									<Link to="/shop-left">See All Bestsellers</Link>
 								</span>
 							</div>
 						</div>
