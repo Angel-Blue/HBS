@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"title": "Product 1",
+		"price": 20,
+		"discount": 5,
+		"stock": true,
+		"category": [1, 2],
+		"tags": [1, 2],
+		"image": ["product1.jpg"],
+		"sold": 100,
+		"goal": 200
+	},
+	{
+		"id": 2,
+		"title": "Product 2",
+		"price": 30,
+		"discount": 0,
+		"stock": false,
+		"category": [2],
+		"tags": [1],
+		"image": ["product2.jpg"],
+		"sold": 50,
+		"goal": 100
+	}
+]

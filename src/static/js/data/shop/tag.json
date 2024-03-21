@@ -1,0 +1,18 @@
+[
+	{
+		"id": 1,
+		"title": "Gold"
+	},
+	{
+		"id": 2,
+		"title": "Silver"
+	},
+	{
+		"id": 3,
+		"title": "Diamond"
+	},
+	{
+		"id": 4,
+		"title": "Gemstone"
+	}
+]

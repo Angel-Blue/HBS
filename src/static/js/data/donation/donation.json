@@ -1,0 +1,29 @@
+[
+	{
+		"id": 1,
+		"title": "Donate for Education",
+		"image": "images/donation/education.jpg",
+		"category": [1, 3],
+		"shortdesc": "Help us provide quality education to underprivileged children.",
+		"raised": 15000,
+		"goal": 30000
+	},
+	{
+		"id": 2,
+		"title": "Support Health Initiatives",
+		"image": "images/donation/health.jpg",
+		"category": [2, 3],
+		"shortdesc": "Contribute to healthcare programs for vulnerable communities.",
+		"raised": 25000,
+		"goal": 50000
+	},
+	{
+		"id": 3,
+		"title": "Preserve Wildlife",
+		"image": "images/donation/wildlife.jpg",
+		"category": [4],
+		"shortdesc": "Protect endangered species and their habitats.",
+		"raised": 10000,
+		"goal": 20000
+	}
+]
