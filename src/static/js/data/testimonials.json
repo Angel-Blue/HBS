@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"comment": "This is a fantastic product!",
+		"author": [
+			{
+				"id": 1,
+				"name": "John Doe",
+				"image": "john-doe.jpg",
+				"address": "New York, USA"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"comment": "Great service and excellent support!",
+		"author": [
+			{
+				"id": 2,
+				"name": "Jane Smith",
+				"image": "jane-smith.jpg",
+				"address": "Los Angeles, USA"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"comment": "Highly recommended!",
+		"author": [
+			{
+				"id": 3,
+				"name": "David Johnson",
+				"image": "david-johnson.jpg",
+				"address": "Chicago, USA"
+			}
+		]
+	}
+]

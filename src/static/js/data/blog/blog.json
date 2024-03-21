@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"title": "Sample Blog Post 1",
+		"image": ["image1.jpg"],
+		"category": ["category1", "category2"],
+		"shortdesc": "Short description of the first blog post.",
+		"postdate": "2024-03-25",
+		"reviews": []
+	},
+	{
+		"id": 2,
+		"title": "Sample Blog Post 2",
+		"image": ["image2.jpg"],
+		"category": ["category2"],
+		"shortdesc": "Short description of the second blog post.",
+		"postdate": "2024-03-26",
+		"reviews": []
+	},
+	{
+		"id": 3,
+		"title": "Sample Blog Post 3",
+		"image": ["image3.jpg"],
+		"category": ["category1"],
+		"shortdesc": "Short description of the third blog post.",
+		"postdate": "2024-03-27",
+		"reviews": []
+	},
+	{
+		"id": 4,
+		"title": "Sample Blog Post 4",
+		"image": ["image4.jpg"],
+		"category": ["category3"],
+		"shortdesc": "Short description of the fourth blog post.",
+		"postdate": "2024-03-28",
+		"reviews": []
+	}
+]

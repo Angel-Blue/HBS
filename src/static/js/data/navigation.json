@@ -1,0 +1,37 @@
+[
+	{
+		"linkText": "Home",
+		"link": "/"
+	},
+	{
+		"linkText": "About",
+		"link": "/about"
+	},
+	{
+		"linkText": "Services",
+		"link": "/services",
+		"child": true,
+		"submenu": [
+			{
+				"linkText": "Service 1",
+				"link": "/service-1"
+			},
+			{
+				"linkText": "Service 2",
+				"link": "/service-2"
+			},
+			{
+				"linkText": "Service 3",
+				"link": "/service-3"
+			}
+		]
+	},
+	{
+		"linkText": "Blog",
+		"link": "/blog"
+	},
+	{
+		"linkText": "Contact",
+		"link": "/contact"
+	}
+]

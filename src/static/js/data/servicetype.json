@@ -1,0 +1,26 @@
+[
+	{
+		"title": "Explore",
+		"text": "As a Visitor",
+		"icon": "images/help.svg",
+		"extclass": "border-custom-right border-sm-bottom"
+	},
+	{
+		"title": "Be a Hand",
+		"text": "As a Donor",
+		"icon": "images/money.svg",
+		"extclass": "border-custom-right border-sm-bottom"
+	},
+	{
+		"title": "Explore",
+		"text": "As a Scientist",
+		"icon": "images/investor.svg",
+		"extclass": "border-custom-right border-sm-bottom"
+	},
+	{
+		"title": "Be a Part",
+		"text": "In our Fundraiser",
+		"icon": "images/cash.svg",
+		"extclass": "border-custom-right border-sm-bottom"
+	}
+]

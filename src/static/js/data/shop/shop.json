@@ -1,0 +1,51 @@
+[
+	{
+		"id": 1,
+		"title": "Jellied Eels",
+		"price": 604,
+		"discount": 10,
+		"stock": true,
+		"category": [1, 2],
+		"tags": [1, 2],
+		"image": ["images/shop/product1.jpg"],
+		"sold": 41000,
+		"goal": 70000,
+		"sale": true
+	},
+	{
+		"id": 2,
+		"title": "Sunset at sea",
+		"price": 536,
+		"discount": 15,
+		"stock": false,
+		"category": [2],
+		"tags": [1],
+		"image": ["images/shop/product2.jpg"],
+		"sold": 15000,
+		"goal": 70000
+	},
+	{
+		"id": 3,
+		"title": "Metal Artwork",
+		"price": 213,
+		"discount": 0,
+		"stock": false,
+		"category": [2],
+		"tags": [1],
+		"image": ["images/shop/product4.jpg"],
+		"sold": 46000,
+		"goal": 70000
+	},
+	{
+		"id": 4,
+		"title": "Metal Artwork",
+		"price": 30,
+		"discount": 0,
+		"stock": false,
+		"category": [2],
+		"tags": [1],
+		"image": ["images/shop/product4.jpg"],
+		"sold": 50,
+		"goal": 100
+	}
+]
