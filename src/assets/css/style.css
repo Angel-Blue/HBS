@@ -1269,11 +1269,36 @@ span.type-tag {
 	justify-content: space-between;
 }
 .header .navigation .logo {
-	width: 120px;
+	width: 160px;
 	height: 40px;
-	margin: 10px 0;
+	margin: -2px 0;
 	z-index: 10;
 }
+
+.logo {
+	width: 160px;
+	height: 50px;
+	/* margin: 10px 0; */
+	z-index: 10;
+}
+
+.logo .pen > *,
+.logo .flame > * {
+	transition: fill 0.3s ease-in-out 0.2s; /* Smooth transition for the fill color change with a 0.2s delay */
+}
+
+.logo g > * {
+	fill: #ffffff;
+}
+
+.logo:hover .flame > * {
+	fill: #ee2f42;
+}
+
+.logo:hover .pen > * {
+	fill: #fbaf17;
+}
+
 .main-navigation > nav > .main-menu {
 	display: flex;
 	align-items: center;

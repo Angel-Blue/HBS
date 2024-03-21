@@ -2,25 +2,28 @@
 	{
 		"image": "images/banner/banner1.jpg",
 		"position": "col-lg-12",
+		"extraclass": "left-side-content text-right",
+		"subtitle": "There is more done",
+		"title": "with pens <span class='text-dark-red'>than with swords</span>",
+		"text": "Harriet Beecher Stowe",
+		"button": "Learn More"
+	},
+	{
+		"image": "images/banner/banner3.jpg",
+		"position": "col-lg-12",
 		"extraclass": "right-side-content far-right",
-		"subtitle": "Around the world.",
-		"title": "Discover Our <span class='text-dark-red'>Reimagined</span> Gallery",
-		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+		"subtitle": "A Tour",
+		"title": " Like  <span class='text-dark-red'>No Other</span>",
+		"text": "Explore the Nook Farm neighborhood, an 1800s community of intellectuals, political leaders, authors, and scholars who influenced the country’s intellectual and social development.",
+		"button": "Visit the Stowe Center"
 	},
 	{
 		"image": "images/banner/banner2.jpg",
 		"position": "col-lg-12",
 		"extraclass": "right-side-content text-center",
-		"subtitle": "Around the world.",
-		"title": "Discover Our <span class='text-dark-red'>Reimagined</span> Gallery",
-		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-	},
-	{
-		"image": "images/banner/banner3.jpg",
-		"position": "col-lg-12",
-		"extraclass": "left-side-content text-right",
-		"subtitle": "Around the world.",
-		"title": "Discover Our <span class='text-dark-red'>Reimagined</span> Gallery",
-		"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+		"subtitle": "Collections",
+		"title": "Treasures of a <span class='text-dark-red'>Transformative </span> Writer",
+		"text": "Uncle Tom’s Cabin as originally published in The National Era",
+		"button": "Visit the Stowe Center"
 	}
 ]

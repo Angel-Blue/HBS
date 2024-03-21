@@ -3,6 +3,7 @@ import HeaderComponent from "../../helper/navhelper";
 import classNames from "classnames";
 import { Link } from "react-router-dom";
 import navigationmenu from "../../data/navigation.json";
+import { ReactComponent as Logo } from "../../../../assets/img/logo.svg"; // Import the SVG file
 
 class Header extends HeaderComponent {
 	render() {
@@ -15,11 +16,12 @@ class Header extends HeaderComponent {
 							<div className="navigation">
 								<div className="logo">
 									<Link to="/">
-										<img
-											src={process.env.PUBLIC_URL + "images/logo.png"}
+										{/* <img
+											src={process.env.PUBLIC_URL + "images/logo.svg"}
 											className="image-fit"
 											alt="logo"
-										/>
+										/> */}
+										<Logo />
 									</Link>
 								</div>
 								<div
