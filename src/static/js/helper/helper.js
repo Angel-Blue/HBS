@@ -70,6 +70,7 @@ function getAuthor(items) {
 	var elems = author.filter((item) => {
 		return items.includes(item.id);
 	});
+
 	return elems;
 }
 export { Rating, getSocialShare, getAuthor };

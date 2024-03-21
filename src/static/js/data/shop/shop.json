@@ -44,7 +44,31 @@
 		"stock": false,
 		"category": [2],
 		"tags": [1],
+		"image": ["images/shop/product3.jpg"],
+		"sold": 50,
+		"goal": 100
+	},
+	{
+		"id": 3,
+		"title": "Metal Artwork",
+		"price": 213,
+		"discount": 0,
+		"stock": false,
+		"category": [2],
+		"tags": [1],
 		"image": ["images/shop/product4.jpg"],
+		"sold": 46000,
+		"goal": 70000
+	},
+	{
+		"id": 4,
+		"title": "Metal Artwork",
+		"price": 30,
+		"discount": 0,
+		"stock": false,
+		"category": [2],
+		"tags": [1],
+		"image": ["images/shop/product3.jpg"],
 		"sold": 50,
 		"goal": 100
 	}

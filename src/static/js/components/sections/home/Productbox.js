@@ -101,9 +101,7 @@ class Productbox extends Component {
 									</div>
 									<div className="featured-pro-img">
 										<img
-											src={
-												process.env.PUBLIC_URL + "/assets/img/shop/featured.jpg"
-											}
+											src={process.env.PUBLIC_URL + "images/shop/featured.jpg"}
 											alt="pro-img"
 											className="img-fluid mx-auto d-block"
 										/>

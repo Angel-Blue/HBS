@@ -8,7 +8,7 @@ class Videocta extends Popuphelper {
 				className="section-padding advertisement-banner-1 what-wedo-bg bg-cover"
 				style={{
 					backgroundImage:
-						"url(" + process.env.PUBLIC_URL + "/assets/img/banner/banner4.jpg)",
+						"url(" + process.env.PUBLIC_URL + "/images/banner/banner4.jpg)",
 				}}>
 				<div className="container-fluid custom-container">
 					<div className="row">

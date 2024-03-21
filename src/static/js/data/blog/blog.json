@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"title": "Sample Blog Post 1",
-		"image": ["image1.jpg"],
+		"image": ["images/blog/blog1.jpg"],
 		"category": ["category1", "category2"],
 		"shortdesc": "Short description of the first blog post.",
 		"postdate": "2024-03-25",
@@ -11,7 +11,7 @@
 	{
 		"id": 2,
 		"title": "Sample Blog Post 2",
-		"image": ["image2.jpg"],
+		"image": ["images/blog/blog2.jpg"],
 		"category": ["category2"],
 		"shortdesc": "Short description of the second blog post.",
 		"postdate": "2024-03-26",
@@ -20,7 +20,7 @@
 	{
 		"id": 3,
 		"title": "Sample Blog Post 3",
-		"image": ["image3.jpg"],
+		"image": ["images/blog/blog3.jpg"],
 		"category": ["category1"],
 		"shortdesc": "Short description of the third blog post.",
 		"postdate": "2024-03-27",
@@ -29,7 +29,7 @@
 	{
 		"id": 4,
 		"title": "Sample Blog Post 4",
-		"image": ["image4.jpg"],
+		"image": ["images/blog/blog4.jpg"],
 		"category": ["category3"],
 		"shortdesc": "Short description of the fourth blog post.",
 		"postdate": "2024-03-28",
