@@ -48,12 +48,12 @@ class Banner extends Component {
 												to="/about"
 												className="btn-solid with-line btn-big mt-20 mr-1">
 												<span>
-													Learn More <i className="fas fa-caret-right" />
+													{item.button} <i className="fas fa-caret-right" />
 												</span>
 											</Link>
-											<Link to="/shop-left" className="border-butn mt-20 ml-1">
+											{/* <Link to="/shop-left" className="border-butn mt-20 ml-1">
 												<span>Shop Now</span>
-											</Link>
+											</Link> */}
 										</div>
 									</div>
 								</div>

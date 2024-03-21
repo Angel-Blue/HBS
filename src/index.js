@@ -19,7 +19,7 @@ import "./assets/css/responsive.css";
 // import "./index.css";
 
 ReactDOM.render(
-	<BrowserRouter basename={"/templatemonster/react/nina/"}>
+	<BrowserRouter basename={"/"}>
 		<App />
 	</BrowserRouter>,
 	document.getElementById("root")

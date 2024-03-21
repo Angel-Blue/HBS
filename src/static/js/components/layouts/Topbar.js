@@ -15,12 +15,12 @@ class Topbar extends Component {
 								<ul className="top-info">
 									<li>
 										<Link to="#">
-											<i className="fas fa-phone-alt" /> +000 123 45678
+											<i className="fas fa-phone-alt" /> 860-522-9258
 										</Link>
 									</li>
 									<li>
 										<Link to="#">
-											<i className="fas fa-envelope" /> info@example.com
+											<i className="fas fa-envelope" /> info@stowecenter.org
 										</Link>
 									</li>
 								</ul>
