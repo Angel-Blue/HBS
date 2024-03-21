@@ -78,5 +78,13 @@
 		"image": "images/story-big/story1.jpg",
 		"raised": 1685,
 		"shortdesc": "Vivamus euismod odio eu diam euismod, vel rutrum libero tincidunt."
+	},
+	{
+		"id": 11,
+		"title": "The Age of Enlightenment: Shaping Modern Thought",
+		"name": "Cafeteria",
+		"image": "images/story-big/story2.jpg",
+		"raised": 1685,
+		"shortdesc": "Vivamus euismod odio eu diam euismod, vel rutrum libero tincidunt."
 	}
 ]
