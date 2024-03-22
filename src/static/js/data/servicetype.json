@@ -1,26 +1,26 @@
 [
 	{
+		"title": "Uncover",
+		"text": "Her Life",
+		"icon": "images/life.svg",
+		"extclass": "border-custom-right border-sm-bottom"
+	},
+	{
+		"title": "Understand",
+		"text": "Her Global Impact",
+		"icon": "images/global.svg",
+		"extclass": "border-custom-right border-sm-bottom"
+	},
+	{
 		"title": "Explore",
-		"text": "As a Visitor",
-		"icon": "images/help.svg",
+		"text": "Her Family",
+		"icon": "images/family.svg",
 		"extclass": "border-custom-right border-sm-bottom"
 	},
 	{
-		"title": "Be a Hand",
-		"text": "As a Donor",
-		"icon": "images/money.svg",
-		"extclass": "border-custom-right border-sm-bottom"
-	},
-	{
-		"title": "Explore",
-		"text": "As a Scientist",
-		"icon": "images/investor.svg",
-		"extclass": "border-custom-right border-sm-bottom"
-	},
-	{
-		"title": "Be a Part",
-		"text": "In our Fundraiser",
-		"icon": "images/cash.svg",
+		"title": "Discover",
+		"text": "Uncle Tom'Cabin",
+		"icon": "images/read.svg",
 		"extclass": "border-custom-right border-sm-bottom"
 	}
 ]
