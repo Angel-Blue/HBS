@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"title": "The Story of Ancient Rome",
-		"name": "Dinosaur & more",
+		"name": "Buy House Tour Tickets",
 		"image": "images/story-big/story1.jpg",
 		"raised": 753,
 		"shortdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget ligula magna."
@@ -10,7 +10,7 @@
 	{
 		"id": 2,
 		"title": "Exploring the Pyramids of Egypt",
-		"name": "Must love Art",
+		"name": "Directions & Parking",
 		"image": "images/story-big/story2.jpg",
 		"raised": 2550,
 		"shortdesc": "Phasellus vehicula ligula nec lorem faucibus, ut elementum ipsum aliquet."
@@ -18,7 +18,7 @@
 	{
 		"id": 3,
 		"title": "The Renaissance Era: A Cultural Rebirth",
-		"name": "Paintings",
+		"name": "Before Your Visit",
 		"image": "images/story-big/story3.jpg",
 		"raised": 1420,
 		"shortdesc": "Fusce vehicula ex et lectus convallis, eu malesuada arcu condimentum."
@@ -26,7 +26,7 @@
 	{
 		"id": 4,
 		"title": "The Age of Enlightenment: Shaping Modern Thought",
-		"name": "Sculptures",
+		"name": "Nook Farm Neighborhood Walking Tour",
 		"image": "images/story-big/story4.jpg",
 		"raised": 1685,
 		"shortdesc": "Vivamus euismod odio eu diam euismod, vel rutrum libero tincidunt."
@@ -34,7 +34,7 @@
 	{
 		"id": 5,
 		"title": "The Industrial Revolution: Transforming Society",
-		"name": "Museum External",
+		"name": "Rent Harriet’s Writing Room",
 		"image": "images/story-big/story5.jpg",
 		"raised": 1760,
 		"shortdesc": "Praesent non lectus sit amet odio ultricies facilisis vel nec justo."
@@ -42,7 +42,7 @@
 	{
 		"id": 6,
 		"title": "The Space Age: Reaching for the Stars",
-		"name": "Museum Internal",
+		"name": "Group & School Visits",
 		"image": "images/story-big/story6.jpg",
 		"raised": 1957,
 		"shortdesc": "Curabitur nec urna vitae libero facilisis bibendum vitae quis eros."
@@ -50,7 +50,7 @@
 	{
 		"id": 7,
 		"title": "The Digital Revolution: Shaping the Information Age",
-		"name": "Artifacts",
+		"name": "The Campus",
 		"image": "images/story-big/story7.jpg",
 		"raised": 1980,
 		"shortdesc": "In dignissim metus ac augue ultrices, vel consectetur sem luctus."
@@ -58,33 +58,9 @@
 	{
 		"id": 8,
 		"title": "The Age of Exploration: Navigating New Horizons",
-		"name": "Science",
+		"name": "Gardens",
 		"image": "images/story-big/story8.jpg",
 		"raised": 1492,
 		"shortdesc": "Nulla suscipit ligula et ultricies lacinia. Aliquam tincidunt sed ipsum nec eleifend."
-	},
-	{
-		"id": 9,
-		"title": "The Renaissance Era: A Cultural Rebirth",
-		"name": "Architecture",
-		"image": "images/story-big/story9.jpg",
-		"raised": 1420,
-		"shortdesc": "Fusce vehicula ex et lectus convallis, eu malesuada arcu condimentum."
-	},
-	{
-		"id": 10,
-		"title": "The Age of Enlightenment: Shaping Modern Thought",
-		"name": "Museum Shop",
-		"image": "images/story-big/story1.jpg",
-		"raised": 1685,
-		"shortdesc": "Vivamus euismod odio eu diam euismod, vel rutrum libero tincidunt."
-	},
-	{
-		"id": 11,
-		"title": "The Age of Enlightenment: Shaping Modern Thought",
-		"name": "Cafeteria",
-		"image": "images/story-big/story2.jpg",
-		"raised": 1685,
-		"shortdesc": "Vivamus euismod odio eu diam euismod, vel rutrum libero tincidunt."
 	}
 ]

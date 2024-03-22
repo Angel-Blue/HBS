@@ -32,9 +32,7 @@ class Bestsellers extends Component {
 					<div className="row">
 						<div className="col-12">
 							<div className="section-header-left title">
-								<h3 className="text-light-black header-title">
-									NINA Museum Design Store
-								</h3>
+								<h3 className="text-light-black header-title">Museum Store</h3>
 								<span className="fs-16">
 									<Link to="/shop-left">See All Bestsellers</Link>
 								</span>
@@ -97,7 +95,7 @@ class Bestsellers extends Component {
 										</div>
 									</div>
 									<div className="product-caption text-center">
-										<div className="product-status">
+										{/* <div className="product-status">
 											<ul className="product-raised">
 												<li>
 													<strong>Distribute:</strong>{" "}
@@ -117,7 +115,7 @@ class Bestsellers extends Component {
 													style={{ width: (item.sold * 100) / item.goal + "%" }}
 												/>
 											</div>
-										</div>
+										</div> */}
 										<h6 className="product-title fw-500 mt-10">
 											<Link
 												to={"/shop-details/" + item.id}
@@ -127,12 +125,18 @@ class Bestsellers extends Component {
 										</h6>
 										<div className="product-money mt-10">
 											<span className="text-light-green fw-600 fs-16">
-												$
-												{new Intl.NumberFormat().format(
+												{/* {new Intl.NumberFormat().format(
 													((item.price * (100 - item.discount)) / 100).toFixed(
 														2
 													)
-												)}
+												)} */}
+												{(
+													(item.price * (100 - item.discount)) /
+													100
+												).toLocaleString("en-US", {
+													style: "currency",
+													currency: "USD",
+												})}
 											</span>
 											{item.discount > 0 || item.discount !== "" ? (
 												<span className="text-price">
