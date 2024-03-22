@@ -2,6 +2,7 @@ import React, { Component, Fragment } from "react";
 import instagram from "../../data/instagram.json";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Link } from "react-router-dom";
+import { ReactComponent as Logo } from "../../../../assets/img/logo.svg";
 
 const settings = {
 	slidesPerView: 2,
@@ -60,16 +61,18 @@ class Footer extends Component {
 									<h6 className="text-custom-white">About Us</h6>
 									<div className="logo mb-xl-20">
 										<Link to="#">
-											<img
-												src={process.env.PUBLIC_URL + "images/logo.png"}
+											{/* <img
+												src={process.env.PUBLIC_URL + "images/logo.svg"}
 												className="img-fluid"
 												alt="img"
-											/>
+											/> */}
+											<Logo />
 										</Link>
 									</div>
 									<p className="text-white">
-										Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-										do eiusmod tempor incididunt
+										77 Forest Street
+										<br />
+										Hartford, CT 06105{" "}
 									</p>
 								</div>
 							</div>
@@ -142,8 +145,52 @@ class Footer extends Component {
 							</div>
 							<div className="col-xl col-lg-4 col-md-4 col-sm-6">
 								<div className="footer-links">
-									<h6 className="text-custom-white">Other Links</h6>
-									<ul>
+									<h6 className="text-custom-white">Contact info</h6>
+									<ul className="contact-info">
+										{/* <li>
+											<Link to="#" className="text-white">
+												{" "}
+												<span>
+													<i className="pe-7s-timer" />
+												</span>
+												Monday - Friday: 9:00 AM - 06:00 PM
+											</Link>
+										</li> */}
+										<li>
+											<Link to="#" className="text-white">
+												{" "}
+												<span>
+													<i className="pe-7s-mail" />
+												</span>
+												info@stowecenter.org
+											</Link>
+										</li>
+										<li>
+											<Link to="#" className="text-white">
+												{" "}
+												<span>
+													<i className="pe-7s-call" />
+												</span>
+												(860) 522-9258
+											</Link>
+										</li>
+										{/* <li>
+											<Link to="#" className="text-white">
+												{" "}
+												<span>
+													<i className="pe-7s-map-marker" />
+												</span>
+												(+348) 123 456 7890
+											</Link>
+										</li> */}
+									</ul>
+								</div>
+							</div>
+
+							<div>
+								<div className="footer-links">
+									<h6 className="text-custom-white">Business Hours</h6>
+									{/* <ul>
 										<li>
 											<Link
 												to="/donation-details/1"
@@ -166,50 +213,78 @@ class Footer extends Component {
 												Blog
 											</Link>
 										</li>
-									</ul>
-								</div>
-							</div>
-							<div className="col-xl col-lg-4 col-md-4 col-sm-6">
-								<div className="footer-links">
-									<h6 className="text-custom-white">Contact info</h6>
-									<ul className="contact-info">
-										<li>
-											<Link to="#" className="text-white">
-												{" "}
-												<span>
-													<i className="pe-7s-timer" />
-												</span>
-												Monday - Friday: 9:00 AM - 06:00 PM
-											</Link>
-										</li>
-										<li>
-											<Link to="#" className="text-white">
-												{" "}
-												<span>
-													<i className="pe-7s-mail" />
-												</span>
-												info@example.com
-											</Link>
-										</li>
-										<li>
-											<Link to="#" className="text-white">
-												{" "}
-												<span>
-													<i className="pe-7s-call" />
-												</span>
-												(+348) 123 456 7890
-											</Link>
-										</li>
-										<li>
-											<Link to="#" className="text-white">
-												{" "}
-												<span>
-													<i className="pe-7s-map-marker" />
-												</span>
-												(+348) 123 456 7890
-											</Link>
-										</li>
-									</ul>
+									</ul> */}
+									{/* <h5 class="mb-1" style="letter-spacing: 2px; color: #818963;">
+										opening hours
+									</h5> */}
+									<table className="footer-table" style={{ color: "#ffffff" }}>
+										<tbody>
+											<tr>
+												<td
+													style={{
+														borderBottom: "1px solid #666",
+														paddingRight: "1rem",
+													}}>
+													Sun - Tue:
+												</td>
+												<td style={{ borderBottom: "1px solid #666" }}>
+													Closed
+												</td>
+											</tr>
+											<tr>
+												<td
+													style={{
+														borderBottom: "1px solid #666",
+														paddingRight: "1rem",
+													}}>
+													Wednesday:
+												</td>
+
+												<td style={{ borderBottom: "1px solid #666" }}>
+													11am - 4pm <br />
+													(open, no tours)
+												</td>
+											</tr>
+											<tr>
+												<td
+													style={{
+														borderBottom: "1px solid #666",
+														paddingRight: "1rem",
+													}}>
+													Thursday:
+												</td>
+												<td style={{ borderBottom: "1px solid #666" }}>
+													11am - 4pm <br /> (open, no tours)
+												</td>
+											</tr>
+											<tr>
+												<td
+													style={{
+														borderBottom: "1px solid #666",
+														paddingRight: "1rem",
+													}}>
+													Friday:
+												</td>
+												<td style={{ borderBottom: "1px solid #666" }}>
+													12pm - 5pm <br />
+													(tours: 12:30pm, 2pm & 4pm)
+												</td>
+											</tr>
+											<tr>
+												<td
+													style={{
+														borderBottom: "1px solid #666",
+														paddingRight: "1rem",
+													}}>
+													Saturday:
+												</td>
+												<td style={{ borderBottom: "1px solid #666" }}>
+													10am - 5pm <br />
+													(tours: 10:30am, 12:30pm, 2pm & 4pm)
+												</td>
+											</tr>
+										</tbody>
+									</table>
 								</div>
 							</div>
 						</div>
