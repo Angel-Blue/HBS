@@ -14,11 +14,14 @@ class Videocta extends Popuphelper {
 					<div className="row">
 						<div className="col-lg-8 custom-center">
 							<div className="advertisement-text-1 mb-30">
-								<h6 className="sub-head">What We do</h6>
+								<h6 className="sub-head">
+									Understanding Katharine S. Day’s Identity
+								</h6>
 								<h3 className="text-white heading">
-									Delivering help and hope to{" "}
-									<span className="text-color-secondary"> people</span> through{" "}
-									<span className="text-color-secondary"> sponsorship</span>
+									Interpreting Sexuality in{" "}
+									<span className="text-color-secondary"> Early</span>{" "}
+									20th-century{" "}
+									<span className="text-color-secondary"> New England</span>
 								</h3>
 								<p />
 							</div>
@@ -27,7 +30,7 @@ class Videocta extends Popuphelper {
 							<div className="blob play-btn ">
 								<a
 									rel={"external"}
-									href={"https://www.youtube.com/watch?v=KH1pcNUTa6U"}
+									href={"https://www.youtube.com/embed/92U-vjAWUVM"}
 									className="popup-youtube popup-video">
 									{" "}
 									<i className="fas fa-play" />
