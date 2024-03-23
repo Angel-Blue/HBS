@@ -87,7 +87,7 @@ class Footer extends Component {
 										</li>
 										<li>
 											<Link to="/about" className="text-white fw-500">
-												About Us
+												About
 											</Link>
 										</li>
 										{/* <li>
@@ -178,6 +178,47 @@ class Footer extends Component {
 												</span>
 												(860) 522-9258
 											</Link>
+										</li>
+
+										<li>
+											<a
+												href="https://www.facebook.com/HarrietBeecherStowe/"
+												className="text-white">
+												<span>
+													<i className="fab fa-facebook-square" />
+												</span>
+												Facebook
+											</a>{" "}
+										</li>
+										<li>
+											<a
+												href="https://twitter.com/HBStoweCenter"
+												className="text-white">
+												<span>
+													<i className="fab fa-twitter-square" />
+												</span>
+												Twitter
+											</a>{" "}
+										</li>
+										<li>
+											<a
+												href="https://www.instagram.com/hbstowecenter/"
+												className="text-white">
+												<span>
+													<i className="fab fa-instagram" />
+												</span>
+												Instagram
+											</a>{" "}
+										</li>
+										<li>
+											<a
+												href="https://www.youtube.com/channel/UCGzZppCVa3V3QPZjuLHF6NA"
+												className="text-white">
+												<span>
+													<i className="fab fa-youtube" />
+												</span>
+												Youtube
+											</a>{" "}
 										</li>
 										{/* <li>
 											<Link to="#" className="text-white">
@@ -310,21 +351,21 @@ class Footer extends Component {
 									</div>
 								</div>
 							</div>
-							<div className="col-lg-4 text-center medewithlove align-self-center">
+							{/* <div className="col-lg-4 text-center medewithlove align-self-center">
 								{" "}
 								<Link to="#" className="text-custom-white">
 									Made with Real <i className="fas fa-heart" /> Yourwebsite
 								</Link>
-							</div>
+							</div> */}
 							<div className="col-lg-4">
 								<div className="copyright-text">
 									{" "}
 									<span className="text-white">
 										©{" "}
 										<Link to="#" className="text-white">
-											Yourwebsite
+											2024 HBSC
 										</Link>{" "}
-										- 2021 | All Right Reserved
+										- Privacy Policy | Terms of Use
 									</span>
 								</div>
 							</div>
