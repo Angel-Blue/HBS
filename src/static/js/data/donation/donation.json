@@ -1,63 +1,63 @@
 [
 	{
 		"id": 1,
-		"title": "Donate for Education",
+		"title": "Rebecca Bayreuther Donohue",
 		"image": "images/donation/article9.jpg",
-		"category": [1],
+		"category": [1, 2],
 		"shortdesc": "Help us provide quality education to underprivileged children.",
 		"raised": 15000,
 		"goal": 30000
 	},
 	{
 		"id": 2,
-		"title": "Support Health Initiatives",
+		"title": "Stowe Prize Conversation #1",
 		"image": "images/donation/article8.jpg",
-		"category": [2],
+		"category": [2, 3, 4],
 		"shortdesc": "Contribute to healthcare programs for vulnerable communities.",
 		"raised": 25000,
 		"goal": 50000
 	},
 	{
 		"id": 3,
-		"title": "Give food & clothing for the homeless",
+		"title": "Soundscape",
 		"image": "images/donation/article7.jpg",
-		"category": [3],
+		"category": [3, 4, 5],
 		"shortdesc": "Protect endangered species and their habitats.",
 		"raised": 10000,
 		"goal": 20000
 	},
 	{
 		"id": 3,
-		"title": "Give food & clothing for the homeless1",
-		"image": "images/donation/article7.jpg",
-		"category": [3],
-		"shortdesc": "Protect endangered species and their habitats.",
-		"raised": 10000,
-		"goal": 20000
-	},
-	{
-		"id": 3,
-		"title": "Give food & clothing for the homeless2",
-		"image": "images/donation/article7.jpg",
-		"category": [3],
-		"shortdesc": "Protect endangered species and their habitats.",
-		"raised": 10000,
-		"goal": 20000
-	},
-	{
-		"id": 3,
-		"title": "Support children & help the world",
-		"image": "images/donation/article4.jpg",
-		"category": [4],
-		"shortdesc": "Protect endangered species and their habitats.",
-		"raised": 10000,
-		"goal": 20000
-	},
-	{
-		"id": 3,
-		"title": "National Convention",
+		"title": "Unspoken Truths #3",
 		"image": "images/donation/article3.jpg",
-		"category": [5],
+		"category": [1, 4, 5, 6],
+		"shortdesc": "Protect endangered species and their habitats.",
+		"raised": 10000,
+		"goal": 20000
+	},
+	{
+		"id": 4,
+		"title": "Progeny",
+		"image": "images/donation/article4.jpg",
+		"category": [1, 4, 5, 6],
+		"shortdesc": "Protect endangered species and their habitats.",
+		"raised": 10000,
+		"goal": 20000
+	},
+	{
+		"id": 3,
+		"title": "The 19th Amendment #2",
+		"image": "images/donation/article2.jpg",
+		"category": [1, 4, 5],
+		"shortdesc": "Protect endangered species and their habitats.",
+		"raised": 10000,
+		"goal": 20000
+	},
+	{
+		"id": 3,
+		"title": "Unspoken Truths #3",
+		"image": "images/donation/article3.jpg",
+		"category": [1, 4, 5, 6],
 		"shortdesc": "Protect endangered species and their habitats.",
 		"raised": 10000,
 		"goal": 20000

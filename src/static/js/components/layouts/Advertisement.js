@@ -56,10 +56,10 @@ class Advertisement extends Component {
 					<div className="row">
 						<div className="col-lg-12">
 							<div className="advertisement-text-1 center-block-div">
-								<h6 className="sub-head">Our Causes</h6>
+								<h6 className="sub-head">Stowe On The Go!</h6>
 								<h3 className="text-white heading">
-									Lets Change The World{" "}
-									<span className="text-dark-red">With Humanity</span>
+									Facilitating Common Ground{" "}
+									<span className="text-dark-red">For Common Good</span>
 								</h3>
 								<div className="ad-count justify-content-center">
 									<div className="countdown-box sigma_countdown-timer-white">
@@ -69,10 +69,13 @@ class Advertisement extends Component {
 										/>
 									</div>
 								</div>
-								<Link
+								{/* <Link
 									to="/shop-details/1"
 									className="btn btn-text btn-text-white mt-20">
-									Become A Volunteer
+									Donate Now
+								</Link> */}
+								<Link to="/" className="btn btn-text btn-text-white mt-20">
+									Donate Now
 								</Link>
 							</div>
 						</div>

@@ -24,11 +24,11 @@ class Gallery extends Popuphelper {
 										</div>
 										<div className="text-box">
 											<h3 className="text-custom-white">
-												Lorem Ipsum is simply dummy text of the typesetting
-												industry.
+												Social Justice Reading Circle <br />
+												April 10th 6pm - 7pm
 											</h3>
 											<Link to="#" className="text-custom-white fs-14">
-												<i className="fab fa-instagram mr-2" /> @username
+												<i className="fab fa-instagram mr-2" /> @hbstowecenter
 											</Link>
 										</div>
 									</div>
@@ -51,7 +51,7 @@ class Gallery extends Popuphelper {
 											{" "}
 											<a
 												rel={"external"}
-												href={"https://www.youtube.com/watch?v=KH1pcNUTa6U"}
+												href={"https://www.youtube.com/embed/EfUI5jsPOds"}
 												className="popup-youtube">
 												<i className="pe-7s-play" />
 											</a>

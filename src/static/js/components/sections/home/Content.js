@@ -23,13 +23,13 @@ class Content extends Component {
 				<Bestsellers />
 				<Videocta />
 				<Donationbox />
-				<Productbox />
+				{/* <Productbox /> */}
 				<Advertisement />
-				<Donationcampaigns />
+				{/* <Donationcampaigns /> */}
 				<Calendar />
 				<Gallery />
 				<Testimonials />
-				<Blogpost />
+				{/* <Blogpost /> */}
 			</Fragment>
 		);
 	}

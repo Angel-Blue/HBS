@@ -31,29 +31,29 @@ class Topbar extends Component {
 								<div className="top-right">
 									<ul className="list-inline">
 										<li className="list-inline-item">
-											<Link to="#">
+											<a href="https://www.facebook.com/HarrietBeecherStowe/">
 												<i className="fab fa-facebook-square" />
-											</Link>{" "}
+											</a>{" "}
 										</li>
 										<li className="list-inline-item">
-											<Link to="#">
+											<a href="https://twitter.com/HBStoweCenter">
 												<i className="fab fa-twitter-square" />
-											</Link>{" "}
+											</a>{" "}
 										</li>
 										<li className="list-inline-item">
-											<Link to="#">
+											<a href="https://www.instagram.com/hbstowecenter/">
 												<i className="fab fa-instagram" />
-											</Link>{" "}
+											</a>{" "}
 										</li>
-										<li className="list-inline-item">
+										{/* <li className="list-inline-item">
 											<Link to="#">
 												<i className="fab fa-linkedin" />
 											</Link>{" "}
-										</li>
+										</li> */}
 										<li className="list-inline-item">
-											<Link to="#">
+											<a href="https://www.youtube.com/channel/UCGzZppCVa3V3QPZjuLHF6NA">
 												<i className="fab fa-youtube" />
-											</Link>{" "}
+											</a>{" "}
 										</li>
 									</ul>
 								</div>

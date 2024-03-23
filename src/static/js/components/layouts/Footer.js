@@ -90,27 +90,32 @@ class Footer extends Component {
 												About Us
 											</Link>
 										</li>
-										<li>
+										{/* <li>
 											<Link to="/blog-details/1" className="text-white fw-500">
 												Blog
 											</Link>
-										</li>
-										<li>
+										</li> */}
+										{/* <li>
 											<Link
 												to="/donation-details/1"
 												className="text-white fw-500">
 												Donation
 											</Link>
-										</li>
-										<li>
+										</li> */}
+										{/* <li>
 											<Link to="/story-details/1" className="text-white fw-500">
 												Story
+											</Link>
+										</li> */}
+										<li>
+											<Link to="/Contact" className="text-white fw-500">
+												Contact
 											</Link>
 										</li>
 									</ul>
 								</div>
 							</div>
-							<div className="col-xl col-lg-4 col-md-4 col-sm-6">
+							{/* <div className="col-xl col-lg-4 col-md-4 col-sm-6">
 								<div className="footer-links">
 									<h6 className="text-custom-white">My Account</h6>
 									<ul>
@@ -142,7 +147,7 @@ class Footer extends Component {
 										</li>
 									</ul>
 								</div>
-							</div>
+							</div> */}
 							<div className="col-xl col-lg-4 col-md-4 col-sm-6">
 								<div className="footer-links">
 									<h6 className="text-custom-white">Contact info</h6>
@@ -187,7 +192,7 @@ class Footer extends Component {
 								</div>
 							</div>
 
-							<div>
+							<div className="col-xl col-lg-4 col-md-4 col-sm-6">
 								<div className="footer-links">
 									<h6 className="text-custom-white">Business Hours</h6>
 									{/* <ul>
