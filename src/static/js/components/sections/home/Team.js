@@ -42,7 +42,9 @@ class Team extends Component {
 									Plan Your Visit
 								</h3>
 								<span className="fs-16 align-self-center">
-									<Link to="/story-grid">See All</Link>
+									{/* <Link to="/story-grid"> */}
+									See All
+									{/* </Link> */}
 								</span>
 							</div>
 						</div>
@@ -53,9 +55,10 @@ class Team extends Component {
 								navigation>
 								{teamblock.map((item, i) => (
 									<SwiperSlide className="swiper-slide" key={i}>
-										<Link
+										{/* <Link
 											to={"/story-details/" + item.id}
-											className="categories">
+											className="categories"> */}
+										<a className="categories">
 											<div className="icon text-custom-white bg-light-green ">
 												<img
 													src={process.env.PUBLIC_URL + "/" + item.image}
@@ -66,7 +69,8 @@ class Team extends Component {
 											<span className="text-light-black cat-name">
 												{item.name}
 											</span>
-										</Link>
+										</a>
+										{/* </Link> */}
 									</SwiperSlide>
 								))}
 							</Swiper>

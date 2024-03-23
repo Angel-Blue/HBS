@@ -34,7 +34,9 @@ class Bestsellers extends Component {
 							<div className="section-header-left title">
 								<h3 className="text-light-black header-title">Museum Store</h3>
 								<span className="fs-16">
-									<Link to="/shop-left">See All Bestsellers</Link>
+									{/* <Link to="/shop-left"> */}
+									See All Bestsellers
+									{/* </Link> */}
 								</span>
 							</div>
 						</div>
@@ -42,13 +44,13 @@ class Bestsellers extends Component {
 							<div className="col-xl-2 col-lg-4 col-md-6 col-sm-6" key={i}>
 								<div className="product-box mb-md-20">
 									<div className="product-img">
-										<Link to={"/shop-details/" + item.id}>
-											<img
-												src={process.env.PUBLIC_URL + "/" + item.image[0]}
-												className="img-fluid full-width"
-												alt={item.title}
-											/>
-										</Link>
+										{/* <Link to={"/shop-details/" + item.id}> */}
+										<img
+											src={process.env.PUBLIC_URL + "/" + item.image[0]}
+											className="img-fluid full-width"
+											alt={item.title}
+										/>
+										{/* </Link> */}
 										<div className="product-badge">
 											{item.sale === true ? (
 												<div className="product-label new">

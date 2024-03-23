@@ -35,13 +35,17 @@ class Donationbox extends Component {
 											</span>
 										))}
 										<h6>
-											<Link to={"/donation-details/" + item.id}>
+											{/* <Link to={"/donation-details/" + item.id}>
 												{item.title}
-											</Link>{" "}
+											</Link>{" "} */}
+											<Link to={"/"}>{item.title}</Link>{" "}
 										</h6>
-										<Link
+										{/* <Link
 											to={"/donation-details/" + item.id}
 											className="btn btn-text btn-text-white">
+											Read More
+										</Link> */}
+										<Link to={"/"} className="btn btn-text btn-text-white">
 											Read More
 										</Link>
 									</div>
@@ -65,13 +69,17 @@ class Donationbox extends Component {
 											</span>
 										))}
 										<h6>
-											<Link to={"/donation-details/" + item.id}>
+											{/* <Link to={"/donation-details/" + item.id}>
 												{item.title}
-											</Link>{" "}
+											</Link>{" "} */}
+											<Link to={"/"}>{item.title}</Link>{" "}
 										</h6>
-										<Link
+										{/* <Link
 											to={"/donation-details/" + item.id}
 											className="btn btn-text btn-text-white">
+											Read More
+										</Link> */}
+										<Link to={"/"} className="btn btn-text btn-text-white">
 											Read More
 										</Link>
 									</div>
