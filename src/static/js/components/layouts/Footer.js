@@ -73,7 +73,36 @@ class Footer extends Component {
 										77 Forest Street
 										<br />
 										Hartford, CT 06105{" "}
-									</p>
+									</p>{" "}
+									<li className="list-inline-item">
+										<a
+											href="https://www.facebook.com/HarrietBeecherStowe/"
+											className="text-white ">
+											<i className="fab fa-facebook-square fa-2x" />
+										</a>{" "}
+									</li>
+									<li className="list-inline-item">
+										<a
+											href="https://twitter.com/HBStoweCenter"
+											className="text-white">
+											<i className="fab fa-twitter-square fa-2x" />
+										</a>{" "}
+									</li>
+									<li className="list-inline-item">
+										<a
+											href="https://www.instagram.com/hbstowecenter/"
+											className="text-white">
+											<i className="fab fa-instagram fa-2x" />
+										</a>{" "}
+									</li>
+									<li className="list-inline-item">
+										{" "}
+										<a
+											href="https://www.youtube.com/channel/UCGzZppCVa3V3QPZjuLHF6NA"
+											className="text-white">
+											<i className="fab fa-youtube fa-2x" />
+										</a>{" "}
+									</li>
 								</div>
 							</div>
 							<div className="col-xl col-lg-4 col-md-4 col-sm-6">
@@ -179,56 +208,6 @@ class Footer extends Component {
 												(860) 522-9258
 											</Link>
 										</li>
-
-										<li>
-											<a
-												href="https://www.facebook.com/HarrietBeecherStowe/"
-												className="text-white">
-												<span>
-													<i className="fab fa-facebook-square" />
-												</span>
-												Facebook
-											</a>{" "}
-										</li>
-										<li>
-											<a
-												href="https://twitter.com/HBStoweCenter"
-												className="text-white">
-												<span>
-													<i className="fab fa-twitter-square" />
-												</span>
-												Twitter
-											</a>{" "}
-										</li>
-										<li>
-											<a
-												href="https://www.instagram.com/hbstowecenter/"
-												className="text-white">
-												<span>
-													<i className="fab fa-instagram" />
-												</span>
-												Instagram
-											</a>{" "}
-										</li>
-										<li>
-											<a
-												href="https://www.youtube.com/channel/UCGzZppCVa3V3QPZjuLHF6NA"
-												className="text-white">
-												<span>
-													<i className="fab fa-youtube" />
-												</span>
-												Youtube
-											</a>{" "}
-										</li>
-										{/* <li>
-											<Link to="#" className="text-white">
-												{" "}
-												<span>
-													<i className="pe-7s-map-marker" />
-												</span>
-												(+348) 123 456 7890
-											</Link>
-										</li> */}
 									</ul>
 								</div>
 							</div>
@@ -283,7 +262,7 @@ class Footer extends Component {
 														borderBottom: "1px solid #666",
 														paddingRight: "1rem",
 													}}>
-													Wednesday:
+													Wed & Thurs:
 												</td>
 
 												<td style={{ borderBottom: "1px solid #666" }}>
@@ -291,18 +270,7 @@ class Footer extends Component {
 													(open, no tours)
 												</td>
 											</tr>
-											<tr>
-												<td
-													style={{
-														borderBottom: "1px solid #666",
-														paddingRight: "1rem",
-													}}>
-													Thursday:
-												</td>
-												<td style={{ borderBottom: "1px solid #666" }}>
-													11am - 4pm <br /> (open, no tours)
-												</td>
-											</tr>
+
 											<tr>
 												<td
 													style={{
