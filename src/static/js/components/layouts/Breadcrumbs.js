@@ -8,7 +8,7 @@ class Breadcrumbs extends Component {
 				className="breadcrumb-area"
 				style={{
 					backgroundImage:
-						"url(" + process.env.PUBLIC_URL + "/assets/img/innerbanner.jpg)",
+						"url(" + process.env.PUBLIC_URL + "/images/banner/banner6.jpg)",
 				}}>
 				<div className="overlay overlay-bg" />
 				<div className="container">

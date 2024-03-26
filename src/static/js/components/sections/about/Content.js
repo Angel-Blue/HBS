@@ -19,7 +19,7 @@ class Content extends Component {
 				{/* <Abt /> */}
 				{/* <Testimonials /> */}
 				<Faqaccordion />
-				<Blogpost />
+				{/* <Blogpost /> */}
 			</Fragment>
 		);
 	}

@@ -3,5 +3,20 @@
 		"id": "0",
 		"question": "What is the Harriet Beecher Stowe Center?",
 		"answer": "<p>The Harriet Beecher Stowe Center is a nonprofit museum and cultural center in Hartford, CT with an active program schedule and house tour experience.</p><p>Our mission: The Stowe Center preserves and interprets Stowe’s home and the Center’s historic collections, promotes vibrant discussion of Stowe’s life and work, and inspires commitment to social justice and positive change.</p><p>Stowe’s 1871 home is a National Historic Landmark. The Harriet Beecher Stowe Center is accredited by the American Alliance of Museums and is an Affiliate of the American Writers Museum.</p>"
+	},
+	{
+		"id": "1",
+		"question": "What does the Stowe Center's mission mean?",
+		"answer": "<p>The Stowe Center’s mission is: The Stowe Center preserves and interprets Stowe’s home and the Center’s historic collections, promotes vibrant discussion of Stowe’s life and work, and inspires commitment to social justice and positive change.</p><p>The Stowe Center uses Stowe’s life and work to inspire positive social change. Interactive tours and programs connect visitors to 19th century issues and the contemporary face of race, class and gender issues. Stowe’s words changed the world and you can too.</p>"
+	},
+	{
+		"id": "2",
+		"question": "What are Salons at Stowe?",
+		"answer": "<p>Salons at Stowe are 21st-century parlor conversations designed to inspire you to move from dialogue and debate to action on social justice issues you care about. Discussion topics focus on the contemporary face of social issues Stowe advocated. See the Calendar of Events for upcoming Salons at Stowe and more conversations at Stowe.</p>"
+	},
+	{
+		"id": "3",
+		"question": "Who was Harriet Beecher Stowe?",
+		"answer": "<p>Stowe was a 19th century author and activist who is most famous for writing Uncle Tom’s Cabin (1852), an exposé of slavery and powerful appeal to eliminate it. This wildly popular and influential novel galvanized the anti-slavery movement in the years before the Civil War.</p>"
 	}
 ]

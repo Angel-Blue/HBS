@@ -17,64 +17,64 @@
 		"title": "Stowe Prize Shortlist Pack",
 		"price": 123,
 		"discount": 15,
-		"stock": false,
+		"stock": true,
 		"category": [2],
 		"tags": [1],
 		"image": ["images/shop/product2.jpg"],
 		"sold": 15000,
 		"goal": 70000,
-		"sale": false
+		"sale": true
 	},
 	{
 		"id": 3,
 		"title": "Texts for Change Sewing Kit",
 		"price": 45,
 		"discount": "",
-		"stock": false,
+		"stock": true,
 		"category": [2],
 		"tags": [1],
 		"image": ["images/shop/product4.jpg"],
 		"sold": 46000,
 		"goal": 70000,
-		"sale": false
+		"sale": true
 	},
 	{
 		"id": 4,
 		"title": "Mother’s Day Gift Pack",
 		"price": 46,
 		"discount": "",
-		"stock": false,
+		"stock": true,
 		"category": [2],
 		"tags": [1],
 		"image": ["images/shop/product3.jpg"],
 		"sold": 50,
 		"goal": 100,
-		"sale": false
+		"sale": true
 	},
 	{
 		"id": 5,
 		"title": "Father’s Day Gift Pack",
 		"price": 60,
 		"discount": "",
-		"stock": false,
+		"stock": true,
 		"category": [2],
 		"tags": [1],
 		"image": ["images/shop/product5.jpg"],
 		"sold": 46000,
 		"goal": 70000,
-		"sale": false
+		"sale": true
 	},
 	{
 		"id": 6,
 		"title": "Little Ones Love Justice Pack",
 		"price": 49,
 		"discount": "",
-		"stock": false,
+		"stock": true,
 		"category": [2],
 		"tags": [1],
 		"image": ["images/shop/product6.jpg"],
 		"sold": 50,
 		"goal": 100,
-		"sale": false
+		"sale": true
 	}
 ]
