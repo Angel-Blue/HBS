@@ -5,7 +5,7 @@ import questions from "../../data/faq.json";
 class Faq extends Component {
 	render() {
 		return (
-			<>
+			<div className="container">
 				<h2 className="text-light-black">
 					Frequently Asked <span className="text-light-green">Questions</span>
 				</h2>
@@ -26,7 +26,7 @@ class Faq extends Component {
 						</Accordion.Item>
 					))}
 				</Accordion>
-			</>
+			</div>
 		);
 	}
 }

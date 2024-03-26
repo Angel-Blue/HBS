@@ -33,13 +33,13 @@ class Abouttextthree extends Component {
 							</p>
 							<p className="text-light-black">See it for yourself!</p>
 						</div>{" "}
-						<div class="col-lg-6">
-							{" "}
-							<div className="histry-img mb-xs-40" style={{ height: "50%" }}>
+						<div className="col-lg-6 d-flex justify-content-center">
+							<div className="histry-img mb-xs-40" style={{ height: "520px" }}>
 								<img
 									src={process.env.PUBLIC_URL + "/images/about/about4.jpg"}
-									className="img-fluid"
+									className="img-fluid full-width"
 									alt="img"
+									style={{ maxHeight: "100%", maxWidth: "100%" }}
 								/>
 							</div>
 						</div>
