@@ -5135,6 +5135,22 @@ footer .footer-links .contact-info li a span {
 
 /*slider*/
 
+.accordion-button {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+}
+
+.accordion-header {
+	font-size: 18px;
+}
+
+.accordion-button[aria-expanded="true"] i {
+	transform: rotate(180deg);
+	transition: transform 0.3s ease; /* Add transition for smooth rotation */
+}
+
 .about-us-slider .slide-item {
 	height: 700px;
 }
@@ -5173,6 +5189,7 @@ footer .footer-links .contact-info li a span {
 .aboutus .history-title > a {
 	margin-top: 20px;
 }
+
 /*how it works*/
 
 .how-it-works .how-it-works-box {

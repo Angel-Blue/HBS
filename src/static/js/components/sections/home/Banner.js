@@ -45,7 +45,7 @@ class Banner extends Component {
 											/>
 											<p className="text-white fw-400">{item.text}</p>
 											<Link
-												to="/about"
+												to=""
 												className="btn-solid with-line btn-big mt-20 mr-1">
 												<span>
 													{item.button} <i className="fas fa-caret-right" />

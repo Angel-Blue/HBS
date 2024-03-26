@@ -45,11 +45,13 @@ class Bestsellers extends Component {
 								<div className="product-box mb-md-20">
 									<div className="product-img">
 										{/* <Link to={"/shop-details/" + item.id}> */}
-										<img
-											src={process.env.PUBLIC_URL + "/" + item.image[0]}
-											className="img-fluid full-width"
-											alt={item.title}
-										/>
+										<Link>
+											<img
+												src={process.env.PUBLIC_URL + "/" + item.image[0]}
+												className="img-fluid full-width"
+												alt={item.title}
+											/>
+										</Link>
 										{/* </Link> */}
 										<div className="product-badge">
 											{item.sale === true ? (
@@ -119,11 +121,11 @@ class Bestsellers extends Component {
 											</div>
 										</div> */}
 										<h6 className="product-title fw-500 mt-10">
-											<Link
+											{/* <Link
 												to={"/shop-details/" + item.id}
-												className="text-color-secondary">
-												{item.title}
-											</Link>
+												className="text-color-secondary"> */}
+											{item.title}
+											{/* </Link> */}
 										</h6>
 										<div className="product-money mt-10">
 											<span className="text-light-green fw-600 fs-16">

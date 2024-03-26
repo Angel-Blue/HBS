@@ -5,12 +5,11 @@ import Team from "./Team";
 import Bestsellers from "./Bestsellers";
 import Gallery from "./Gallery";
 import Donationbox from "./Donationbox";
-import Productbox from "./Productbox";
+
 import Advertisement from "../../layouts/Advertisement";
 import Testimonials from "../../layouts/Testimonials";
 import Videocta from "../../layouts/Videocta";
-import Donationcampaigns from "./Donationcampaigns";
-import Blogpost from "./Blogpost";
+
 import Calendar from "./Calendar";
 
 class Content extends Component {
